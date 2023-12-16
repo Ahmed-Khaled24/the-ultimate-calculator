@@ -11,7 +11,7 @@ function subtract(a: number, b: number): number {
 
 function multiply(a: number, b: number): number {
   // TODO: implement
-  return a * b;
+  return a / b;
 }
 
 function divide(a: number, b: number): number {
