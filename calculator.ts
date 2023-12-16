@@ -11,5 +11,12 @@ function multiply(a: number, b: number): number {
 }
 
 function divide(a: number, b: number): number {
-	return a/b;
+	if(b===0){
+		console.log("error")
+		return 0;
+	}
+	else{
+		return a/b;
+
+	}
 }
