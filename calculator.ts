@@ -17,6 +17,5 @@ function divide(a: number, b: number): number {
 	}
 	else{
 		return a/b;
-
 	}
 }
